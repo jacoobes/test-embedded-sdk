@@ -11,3 +11,4 @@ CLIENT_SECRET=xxxx
 ```
 # Have fun!
 - note, depending on your usecase, svelte-kit is probably not the best framework for this; it relies too much on apis restricted by the sdk
+- testing should be done in the browser. The Dev Console is your friend, and all logs are sent to there.
