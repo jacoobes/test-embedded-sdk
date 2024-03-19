@@ -10,3 +10,4 @@ VITE_DISCORD_CLIENT_ID=xxxxx
 CLIENT_SECRET=xxxx
 ```
 # Have fun!
+- note, sveltekit probably not the best framework for this, it relies too much on apis restricted by the sdk
